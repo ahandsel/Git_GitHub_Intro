@@ -1,9 +1,9 @@
 meta:
-  url:
-  title:
+  url: https://ahandsel.github.io/Git_GitHub_Intro/
+  title: Intro to Git & Github
   description:
   siteName:
-  sns: ['twitter']
+  sns: ['github']
 slide:
   loop: false
   ui:
@@ -13,5 +13,6 @@ slide:
     effect: # fade | cube | flip
   code:
     # https://prismjs.com/
-    plugins: []
+    languages: ['javascript', 'html']
+    plugins: ['line-numbers']
     theme: default # coy | dark | funky | okaidia | solarizedlight | tomorrow | twilight
