@@ -2,14 +2,14 @@
 
 ## fusuma Notes
 
-Executable tasks:
+### First time
+1. Install: `npm i fusuma -D`
+2. Initialize: `npx fusuma init`
 
-```sh
-npm i fusuma -D            # install
-$ npx fusuma init          # create scaffold
-$ npx fusuma start         # run server for development
-$ npx fusuma start-prod    # run server for bundle directory
-$ npx fusuma build         # build slides for production
-$ npx fusuma deploy        # deploy to github pages
-$ npx fusuma pdf           # export as PDF
-```
+### Updates
+1. Install (per new terminal): `npm i fusuma -D`
+2. Test on dev server: `npx fusuma start`
+3. Build production version: `npx fusuma build`
+4. View production version: `npx fusuma start-prod`
+5. Deploy to Github Pages: `npx fusuma deploy`
+6. Export as PDF: `npx fusuma pdf`
