@@ -3,7 +3,11 @@
 ## fusuma Notes
 
 ### First time
-1. Install: `npm i fusuma -D`
+1. Installations:
+   1. `npm i fusuma -D`
+   2. `npm i @fusuma/client`
+   3. `npm i @fusuma/configs`
+   4. `npm i @fusuma/task-ghp` | GitHub Pages
 2. Initialize: `npx fusuma init`
 
 ### Updates
