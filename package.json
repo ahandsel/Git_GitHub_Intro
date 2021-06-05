@@ -6,5 +6,10 @@
   "pdf": "npm run build && fusuma pdf",
   "devDependencies": {
     "fusuma": "^2.8.4"
+  },
+  "dependencies": {
+    "@fusuma/client": "^2.8.4",
+    "@fusuma/task-pdf": "^2.8.4",
+    "@fusuma/webpack": "^1.16.0"
   }
 }
