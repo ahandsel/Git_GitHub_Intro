@@ -13,6 +13,14 @@ slide:
     effect: # fade | cube | flip
   code:
     # https://prismjs.com/
-    languages: ['javascript', 'html']
-    plugins: ['line-numbers']
-    theme: default # coy | dark | funky | okaidia | solarizedlight | tomorrow | twilight
+    languages:
+      - javascript
+      - html
+    plugins:
+      - line-numbers
+    theme: tomorrow
+      # coy | dark | funky | okaidia | solarizedlight | tomorrow | twilight | default
+extends:
+  #js: index.js
+  css: style.css
+  #webpack: webpack.config.js
