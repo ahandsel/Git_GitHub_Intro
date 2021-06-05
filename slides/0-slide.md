@@ -1,4 +1,9 @@
 # Git, GitHubとは？ - 準備手順
+
+<!-- classes: title -->
+
+<br />
+
 by [Kintone Developer Program](https://developer.kintone.io/hc/en-us/)
 
 <br />
@@ -10,6 +15,7 @@ by [Kintone Developer Program](https://developer.kintone.io/hc/en-us/)
 ---
 
 ## Overview
+<!-- sectionTitle: Overview -->
 
 ### コンテンツの目的
 SC本部メンバーが。。。
@@ -22,14 +28,14 @@ SC本部メンバーが。。。
 <!-- block-start: column -->
 
 #### Gitの基本
-<img src="../assets/Git_Logo.png"/>
+[![Git_Logo](../assets/Git_Logo.png)](https://git-scm.com/)
 
 <!-- block-end -->
 
 <!-- block-start: column -->
 
 #### GitHubの基本
-<img src="../assets/GitHub_CatLogo.png"/>
+[![GitHub_CatLogo](../assets/GitHub_CatLogo.png)](https://github.com/)
 
 <!-- block-end -->
 
@@ -46,10 +52,12 @@ SC本部メンバーが。。。
 ---
 
 ## GitHubアカウント
+<!-- sectionTitle: GitHub Account -->
+
 
 ### GitHubアカウントを作成する
 [github.com/join](https://github.com/join)  
-![GitHub Join Screenshot](../assets/GitHub_Join.png)
+[![GitHub Join Screenshot](../assets/GitHub_Join.png)](https://github.com/join)
 
 ---
 
@@ -61,9 +69,9 @@ SC本部メンバーが。。。
      - 提案: [Microsoft](https://www.microsoft.com/en-us/account/authenticator), [Authy](https://authy.com/guides/github/), [Enpass](https://www.enpass.io/)
 
 #### Resources
-  - [2 要素認証を設定する - GitHub help doc](https://help.github.com/ja/github/authenticating-to-github/configuring-two-factor-authentication)
+  - GitHub help doc: [2 要素認証を設定する](https://help.github.com/ja/github/authenticating-to-github/configuring-two-factor-authentication)
   - YouTube: [How to setup 2FA with GitHub](https://youtu.be/5DKqXeorDHY)
 
 ---
 
-##
+## Panda
